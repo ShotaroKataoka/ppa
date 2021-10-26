@@ -1,0 +1,28 @@
+Package: ls-Improved
+Version: 1.0.0~alpha4
+Architecture: amd64
+Maintainer: ShotaroKataoka <s183347@stn.nagaokaut.ac.jp>
+Installed-Size: 2830
+Depends: libc6 (>= 2.31)
+Filename: ./ls-Improved_1.0.0~alpha4_amd64.deb
+Size: 796552
+MD5sum: 9d103ec2447c67686975b5da3048e40a
+SHA1: 43da04801810c423a56fabd27484c76d1807bda8
+SHA256: b3ded2b044f917e82e070de61f3ba12fc3150b4353dc1bb9a725d8b3fee4e4cb
+Priority: optional
+Description: [generated from Rust crate ls-Improved]
+
+Package: ls-improved
+Version: 1.0.0~alpha2
+Architecture: amd64
+Maintainer: ShotaroKataoka <s183347@stn.nagaokaut.ac.jp>
+Installed-Size: 2490
+Depends: libc6 (>= 2.31)
+Filename: ./ls-improved_1.0.0~alpha2_amd64.deb
+Size: 695004
+MD5sum: 7d75f99bfb798e86ea98d8e898ae7bb1
+SHA1: 046099118d61be5a7a2f79c6aa0a96808f3c99b7
+SHA256: 937acae2bbd9206ea89c9dda6d8bfbe170348170232a1a246e93174266ef750a
+Priority: optional
+Description: [generated from Rust crate ls-improved]
+
